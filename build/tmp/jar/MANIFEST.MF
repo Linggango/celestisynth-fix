@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: celestisynth_fix
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: celestisynth-fix
+Implementation-Version: 0.1
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-06-08T18:23:43+0300
+
